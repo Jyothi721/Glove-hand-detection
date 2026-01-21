@@ -1,0 +1,15 @@
+{
+  "filename": "p4pb13571189.jpg",
+  "detections": [
+    {
+      "label": "bare_hand",
+      "confidence": 0.87,
+      "bbox": [
+        6,
+        0,
+        799,
+        525
+      ]
+    }
+  ]
+}
